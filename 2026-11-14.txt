@@ -3,6 +3,7 @@ https://github.com/crhvc/oss/ads
 https://github.com/crhvc/oss/agency
 https://github.com/crhvc/oss/agents
 https://github.com/crhvc/oss/ai
+https://github.com/crhvc/oss/api
 https://github.com/crhvc/oss/apis
 https://github.com/crhvc/oss/app
 https://github.com/crhvc/oss/apps
@@ -105,6 +106,7 @@ https://github.com/crhvc/oss/manager
 https://github.com/crhvc/oss/maps
 https://github.com/crhvc/oss/markets
 https://github.com/crhvc/oss/math
+https://github.com/crhvc/oss/mcp
 https://github.com/crhvc/oss/mcps
 https://github.com/crhvc/oss/md
 https://github.com/crhvc/oss/me
@@ -127,7 +129,9 @@ https://github.com/crhvc/oss/pod
 https://github.com/crhvc/oss/podcasts
 https://github.com/crhvc/oss/press
 https://github.com/crhvc/oss/principal
+https://github.com/crhvc/oss/principals
 https://github.com/crhvc/oss/products
+https://github.com/crhvc/oss/provider
 https://github.com/crhvc/oss/providers
 https://github.com/crhvc/oss/pw
 https://github.com/crhvc/oss/radio
@@ -143,6 +147,7 @@ https://github.com/crhvc/oss/school
 https://github.com/crhvc/oss/search
 https://github.com/crhvc/oss/services
 https://github.com/crhvc/oss/sh
+https://github.com/crhvc/oss/sheet
 https://github.com/crhvc/oss/sheets
 https://github.com/crhvc/oss/shop
 https://github.com/crhvc/oss/show
@@ -179,8 +184,10 @@ https://github.com/crhvc/oss/video
 https://github.com/crhvc/oss/vote
 https://github.com/crhvc/oss/vpn
 https://github.com/crhvc/oss/website
+https://github.com/crhvc/oss/websites
 https://github.com/crhvc/oss/wiki
 https://github.com/crhvc/oss/work
 https://github.com/crhvc/oss/world
 https://github.com/crhvc/oss/ws
 https://github.com/crhvc/oss/zip
+https://github.com/crhvc/oss/zips
